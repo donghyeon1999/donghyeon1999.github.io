@@ -1,0 +1,24 @@
+title: Dong-Hyeon Kang
+url: "https://donghyeon1999.github.io/"
+#baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png" 1200 x 1200
+
+tracking_id: #
+
+#footer: no
+#footer_url: "https://github.com/ankitsultana"
+#footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: ""
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
